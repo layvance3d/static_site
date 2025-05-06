@@ -1,5 +1,5 @@
 "use client";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/ButtonComponent";
 import Image from "next/image";
 // @ts-ignore
 import anime from 'animejs';

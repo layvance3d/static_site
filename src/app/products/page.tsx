@@ -2,7 +2,7 @@
 
 import { useSearchParams } from "next/navigation";
 import { useMemo } from "react";
-import { Button } from "@/components/ui/button";
+import { Button } from "@/components/ui/ButtonComponent";
 import Image from "next/image";
 
 // 假資料：實際可串接 API 或 DB

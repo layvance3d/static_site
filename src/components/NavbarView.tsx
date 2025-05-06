@@ -6,14 +6,14 @@ import {
   SheetTrigger,
   SheetContent,
   SheetClose,
-} from "@/components/ui/sheet";
+} from "@/components/ui/SheetComponent";
 import {
   Accordion,
   AccordionItem,
   AccordionTrigger,
   AccordionContent,
-} from "@/components/ui/accordion";
-import { Button } from "@/components/ui/button";
+} from "@/components/ui/AccordionComponent";
+import { Button } from "@/components/ui/ButtonComponent";
 import { usePathname, useSearchParams } from "next/navigation";
 
 // NavbarView 導覽列元件
